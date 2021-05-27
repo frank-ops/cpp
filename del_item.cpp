@@ -29,4 +29,5 @@ int main()
   }
    else
      cout << "no such element to delete" ;
+   return 0;
 }
