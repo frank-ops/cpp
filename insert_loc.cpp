@@ -5,7 +5,7 @@ int main()
     int arr[100],n,loc,i;
     cout<<"enter the length"<<" ";
     cin>>n;
-    if(100<n)
+    if(100<=n)
       cout<<"change is not possible";
 else{
    cout<<"enter the elements";
